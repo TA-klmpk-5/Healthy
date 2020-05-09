@@ -1,0 +1,13 @@
+Sebelum dipakai LOGIN TA nya
+tolong letakkan ini ke xampp/htdocs
+buat database dengan nama healthydata
+dan tabel dengan nama healthyuser
++_______________________________+
+|name			|pass			|
+|_______________|_______________|
+|admin			|123			|
+|_______________|_______________|
+setelah itu
+buka browser dan ketik
+localhost/ (nama file)
+[NOTE: JANGAN LUPA AKTIFKAN APACHE DAN MYSQL :) ]
